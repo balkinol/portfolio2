@@ -1,0 +1,16 @@
+{
+  "name": "bootstrap-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d bootstrap-project"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://balkinol.github.io/portfolio2",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
